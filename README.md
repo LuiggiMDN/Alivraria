@@ -11,7 +11,7 @@
    
 3. Modelo de negócio:
 
- 	![modelo de negócio](Docs/Modelo de Negocio Alivraria.pdf)
+ 	![modelo de negócio]([Docs/Modelo de Negocio Alivraria.pdf](https://github.com/LuiggiMDN/Alivraria/blob/9505c3312a5001f67df1469f38653cd822fe6eb5/Docs/Modelo%20de%20Negocio%20Alivraria.pdf))
    
 4. Requisitos de alto nível:
 5. Tecnologias que serão usadas:
