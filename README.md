@@ -11,7 +11,7 @@
    
 3. Modelo de negócio:
 
- 	![modelo de negócio](modelonegocio.jpeg)
+ 	![modelo de negócio](Docs/modelonegocio.jpeg)
    
 4. Requisitos de alto nível:
 5. Tecnologias que serão usadas:
