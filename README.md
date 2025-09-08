@@ -11,7 +11,7 @@
    
 3. Modelo de negócio:
 
- 	![modelo de negócio]("C:\Users\lana_\Downloads\modelo negocio.jpeg")
+ 	![modelo de negócio](modelonegocio.jpeg)
    
 4. Requisitos de alto nível:
 5. Tecnologias que serão usadas:
