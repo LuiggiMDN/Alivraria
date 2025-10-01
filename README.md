@@ -30,6 +30,6 @@
    - AWS(Banco de dados)
      
 6. Integrantes e Responsáveis:
-    - Node.js - Lana Lumi, 
-    - React - Mirella Faria, Lana Lumi
+    - Node.js - Lana
+    - React - Mirella, Luiggi
     - AWS - Maria, Camila
