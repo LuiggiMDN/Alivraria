@@ -11,7 +11,7 @@
    
 3. Modelo de negócio:
 
- 	![modelo de negócio](Docs/modelonegocio.jpeg)
+ 	![modelo de negócio](Docs/ModelodeNegócio.png)
    
 4. Requisitos de alto nível:
  - Para usuários cadastrados e com assinatura o sistema deve permitir que eles acessem as primeiras páginas de qualquer livro disponível na plataforma;
