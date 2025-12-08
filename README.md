@@ -32,3 +32,17 @@
     - Node.js - Lana
     - React - Mirella, Luiggi
     - AWS - Maria, Camila
+  
+7. Diagrama ER:
+   - [Diagrama](https://github.com/LuiggiMDN/Alivraria/blob/main/Docs/Diagrama%20Entidade%20Relacionamento.jpeg)
+
+8.    Telas Finais e protótipo:
+   - [Telas finais](https://github.com/LuiggiMDN/Alivraria/tree/main/Docs/Telas%20Finais),
+   - [Protótipo navegável](https://alivraria.lovable.app/)
+
+9. Diagrama de Classes UML:
+   - [Diagrama](https://github.com/LuiggiMDN/Alivraria/blob/main/Docs/Diagrama%20de%20Classes%20UML.jpeg)
+
+10. Proposta do Projeto:
+   - [ES2PropostaAlivraria](https://github.com/LuiggiMDN/Alivraria/blob/main/Docs/ES2PropostaAlivraria.pdf)
+
