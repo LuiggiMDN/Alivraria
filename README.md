@@ -46,3 +46,5 @@
 10. Proposta do Projeto:
    - [ES2Proposta Alivraria](https://github.com/LuiggiMDN/Alivraria/blob/main/Docs/ES2PropostaAlivraria.pdf)
 
+11. Apresentação Final:
+    - [Video Apresentação](https://youtu.be/39NUPmnl9Ag)
