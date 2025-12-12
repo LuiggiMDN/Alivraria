@@ -54,9 +54,11 @@
 ---
 
 ### Tecnologias que serão usadas:
-   - React(Frontend)
-   - Node.js(Backend)
-   - AWS(Banco de dados)
+   - React (frontend);
+   - Node.js (backend);
+   - AWS (banco de dados);
+   - Lovable (protótipo);
+   - Canva (documentos).
 
 ---
 
