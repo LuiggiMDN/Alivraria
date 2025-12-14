@@ -57,7 +57,7 @@
    - React (frontend);
    - Node.js (backend);
    - AWS (banco de dados);
-   - Lovable (protótipo);
+   - Cursor e Vercel (protótipo);
    - Canva (documentos).
 
 ---
