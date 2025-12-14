@@ -45,8 +45,8 @@
 1. [Proposta Alivraria](https://github.com/LuiggiMDN/Alivraria/blob/main/Docs/ES2PropostaAlivraria.pdf);
 2. [Diagrama de Caso de Uso](https://github.com/LuiggiMDN/Alivraria/blob/main/Docs/DiagramaDeCasoDeUso.png);
 3. [Personas](https://github.com/LuiggiMDN/Alivraria/tree/main/Docs/Personas);
-4. [Diagrama ER](https://github.com/LuiggiMDN/Alivraria/blob/main/Docs/Diagrama%20Entidade%20Relacionamento.jpeg);
-5. [Diagrama de Classes](https://github.com/LuiggiMDN/Alivraria/blob/main/Docs/Diagrama%20de%20Classes%20UML.jpeg);
+4. [Diagrama ER](https://github.com/LuiggiMDN/Alivraria/blob/main/Docs/Diagrama%20ER%20Alivraria%20(1).png);
+5. [Diagrama de Classes](https://github.com/LuiggiMDN/Alivraria/blob/main/Docs/Classe%20UML.png);
 6. [Telas](https://github.com/LuiggiMDN/Alivraria/tree/main/Docs/Telas%20Finais);
 7. [Protótipo navegável](https://alivraria.vercel.app/);
 8. [Video Apresentação](https://youtu.be/39NUPmnl9Ag).
