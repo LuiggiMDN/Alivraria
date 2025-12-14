@@ -48,7 +48,7 @@
 4. [Diagrama ER](https://github.com/LuiggiMDN/Alivraria/blob/main/Docs/Diagrama%20Entidade%20Relacionamento.jpeg);
 5. [Diagrama de Classes](https://github.com/LuiggiMDN/Alivraria/blob/main/Docs/Diagrama%20de%20Classes%20UML.jpeg);
 6. [Telas](https://github.com/LuiggiMDN/Alivraria/tree/main/Docs/Telas%20Finais);
-7. [Protótipo navegável](https://alivraria.lovable.app/);
+7. [Protótipo navegável](https://alivraria.vercel.app/);
 8. [Video Apresentação](https://youtu.be/39NUPmnl9Ag).
 
 ---
