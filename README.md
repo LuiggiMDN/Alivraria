@@ -21,7 +21,7 @@
    
 ### Requisitos de alto nível:
 
- **Para usuários cadastrados:**
+ **1. Para usuários cadastrados:**
  - O sistema deve permitir que os usuários acessem o catálogo de livros;
  - O sistema deve permitir que os usuários recebam recomendações personalizadas;
  - O sistema deve exibir links de redirecionamento para sites onde o livro desejado pelo usuário pode ser adquirido ou lido na íntegra;
@@ -30,12 +30,12 @@
  - O sistema deve apresentar um ambiente de comunidade (fórum) online, no qual permitirá o usuário interagir com outros usuários;
  - O sistema deve ter diversos eventos para permitir maiores interações entre os usuários, como concursos de escrita, debates literários, clubes de leitura, troca de livros, entre outros. Podendo ser realizados online e/ou presencialmente.
 
-**Para usuários assinantes:**
+**2. Para usuários assinantes:**
 - O sistema poderá disponibilizar convites de eventos para os usuários assinantes;
 - O sistema deve permite a participação dos usuários assinantes em fóruns exclusivos - com ou sem a presença dos autores;
 - O sistema poderá disponibilizar descontos exclusivos para os usuários assinantes.
 
-**Para usuários autores:**
+**3. Para usuários autores:**
 - O sistema deve permite que autores criem e participem de seus fóruns exclusivos;
 - O sistema deve permite que os autores divulguem suas obras autorais.
 
